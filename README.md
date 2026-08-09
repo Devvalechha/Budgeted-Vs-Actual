@@ -79,5 +79,3 @@ This is a fictional company and dataset, created purely for portfolio and learni
 ## 🔗 Connect
 
 If you have feedback or suggestions to improve this project, feel free to open an issue or connect with me on LinkedIn.
-
-https://linkedin.com/in/harshrijhwani4
