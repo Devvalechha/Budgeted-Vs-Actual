@@ -66,9 +66,9 @@ A "Variance" cell was calculated as Budget − Actual instead of Actual − Budg
 
 ## 📷 Preview
 
-(Add screenshots of your Visual Summary charts and Dashboard here)
-
 ![Visual Summary](<dashboard.png>)
+![Visual Summary](<dashboard-1.png>)
+![Visual Summary](<dashboard-2.png>)
 
 ---
 
