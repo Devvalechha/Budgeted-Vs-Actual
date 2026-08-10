@@ -60,7 +60,7 @@ A SUMIF range accidentally referenced $N$534 instead of $N$53, a copy-paste erro
 
 A "Variance" cell was calculated as Budget − Actual instead of Actual − Budget, which incorrectly flagged a positive result (beating budget) as "Unfavourable." Fixed to correctly show it as Favourable.
 
-(Documenting and fixing these was intentional — real-world dashboards need to be audited, not just built.)
+(Documenting and fixing these was intentional real-world dashboards need to be audited, not just built.)
 
 ---
 
