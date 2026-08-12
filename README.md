@@ -85,4 +85,4 @@ This is a fictional company and dataset, created purely for portfolio and learni
 
 ## 🔗 Connect
 
-If you have feedback or suggestions to improve this project, feel free to open an issue or connect with me on LinkedIn.
+If you have feedback or suggestions to improve this project, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/dev-valechha-48467928a/).
